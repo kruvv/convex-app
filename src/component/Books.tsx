@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { book } from "../types/book.type";
+import { book } from "../types/books.types";
 import { useMutation } from "convex/react";
 import { api } from "../../convex/_generated/api";
 import { Id } from "../../convex/_generated/dataModel";
